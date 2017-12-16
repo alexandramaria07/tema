@@ -10,7 +10,7 @@ namespace newbr
     {
         static void Main(string[] args)
         { 
-            Console.WriteLine("we love school");
+            Console.WriteLine("we love school!!! ");
         }
     }
 }
