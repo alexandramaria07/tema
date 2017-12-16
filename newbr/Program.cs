@@ -9,7 +9,7 @@ namespace newbr
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             Console.WriteLine("we love school");
         }
     }
