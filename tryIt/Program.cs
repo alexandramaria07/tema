@@ -10,7 +10,7 @@ namespace tryIt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello friends!!!"); 
+            Console.WriteLine("Hello friends ya!!!"); 
         }
     }
 }
